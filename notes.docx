@@ -1,0 +1,12 @@
+text-color changes text color
+px -1 padding 1 px on x-axis
+border for making borderappear
+border-color-000 for color
+
+for centering 
+first include flex
+horizontal center - justify-center
+verticcal center - items-center
+
+svg icon size
+to cha=nge its size use width and height by declaring seperate class inside svg
